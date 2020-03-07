@@ -2,7 +2,7 @@
 maprouting-isabellarolfe13 created by GitHub Classroom
 
 # Map Routing Project
-   #3 Files:
+   3 Files:
    
     -NodeVertex.java
   
@@ -10,10 +10,14 @@ maprouting-isabellarolfe13 created by GitHub Classroom
     
     -Queue.java
     
-    #4 .txts to Test
+   4 .txts to Test
+   
       -sale.txt (main one)
+      
       -saleTenThousand.txt (.txt with TenThousand)
+      
       -smallsale.txt
+      
       -testing.txt
       
 # WHAT TO RUN
