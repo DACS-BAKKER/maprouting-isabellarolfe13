@@ -21,8 +21,12 @@ maprouting-isabellarolfe13 created by GitHub Classroom
       -testing.txt
       
 # WHAT TO RUN
+
   1) Run ProjectMain.java and on LINE 16 use sale.txt
-        -sale.txt is full file which takes approximately 2 MINUTES to run because of the file size
+  
+   -sale.txt is full file which takes approximately 2 MINUTES to run because of the file size
+   
+        
   2) Run ProjectMain.java and on LINE 16 use saleTenThousand.txt
         -saleTenThousand.txt takes few SECONDS to run
   I also have smallsale.txt which I thought to include because it shows I started programming this algorithm on and
