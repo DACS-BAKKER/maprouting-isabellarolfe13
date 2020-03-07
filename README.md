@@ -43,8 +43,9 @@ maprouting-isabellarolfe13 created by GitHub Classroom
  
 # WHEN TESTING
   When testing this program and picking nodes please note that it might be diffuclt to see the path sometimes because it is so small
+  
   TWO POINTS for testing are 5437 as a start and 5831 as an end
   
-  -this path is a small red path in california and will print [5437, 5454, 5462, 5469, 5490, 5513, 5611, 5650, 5653, 5673, 5708, 5711, 5736, 5742, 5755, 5769, 5782, 5786, 5831]
-  
-  -it will take about 2 minutes to run
+    -this path is a small red path in california and will print [5437, 5454, 5462, 5469, 5490, 5513, 5611, 5650, 5653, 5673, 5708, 5711,    5736, 5742, 5755, 5769, 5782, 5786, 5831]
+    
+   -it will take about 2 minutes to run
